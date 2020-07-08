@@ -1,3 +1,16 @@
+# Recipie App
+Recipe search application created with "useState" hook. App uses https://api.edamam.com. Application was created to grow up skills work with api.
+
+## The first view is always chicken recipes :
+![firstView](https://user-images.githubusercontent.com/50556211/86945772-bd3ebc00-c149-11ea-898a-0f22f84a816b.png)
+![secondView](https://user-images.githubusercontent.com/50556211/86945791-c29c0680-c149-11ea-95d7-4f819b52ecfb.png)
+
+### We can enter any food, such as banana:
+![thirdView](https://user-images.githubusercontent.com/50556211/86945800-c4fe6080-c149-11ea-84d4-4b094d989613.png)
+![fourthView](https://user-images.githubusercontent.com/50556211/86945805-c891e780-c149-11ea-9a24-d6659bfa5078.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

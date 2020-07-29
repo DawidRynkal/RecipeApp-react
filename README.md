@@ -1,4 +1,6 @@
 # Recipie App
+Demo link: https://dawidrynkal.github.io/RecipeApp-react/
+
 Recipe search application created with "useState" hook. App uses https://api.edamam.com. Application was created to grow up skills work with api.
 
 ## The first view is always chicken recipes :
